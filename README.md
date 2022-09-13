@@ -12,7 +12,7 @@ This demo is built with Spring Cloud, Spring GCP and Maven. The app is a simple 
     curl https://{url}/inventory/2
     curl https://{url}/inventory/
 The app will bootstrap a database using Spring Hibernate and should access the data over the rest API endpoint.
-Blah
+Blah2
 ## Bill of Materials
 **Dependencies**
 | Dependency                             | Version |
